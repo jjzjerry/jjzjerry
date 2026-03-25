@@ -37,47 +37,19 @@ width="800"  height="3">
 
 ### 💻 Stats
 
-<details open>
-<summary>点击展开 ...</summary>
 
-<div align="center">
-
-
-
-
-
-</div>
-
-</details>
 
 ### 🏊 更多仓库
-
-<details open>
-<summary>点击展开 ...</summary>
-
 
 
 
 ### 📝 博客最近更新
 
-<details open>
-<summary>点击展开 ...</summary>
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
-<!-- BLOG-POST-LIST:START -->
 
-</details>
 
 
 ### 🦚 B站与知乎
 
-<details open>
-<summary>点击展开 ...</summary>
-<div align="center">
-
-[![](https://stats.justsong.cn/api/bilibili/?id=511798206)](https://space.bilibili.com/511798206)[![](https://stats.justsong.cn/api/zhihu?username=disnox)](https://www.zhihu.com/people/disnox)
-</div>
 
 
-
-</details>
 
